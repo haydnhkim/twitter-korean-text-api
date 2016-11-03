@@ -1,5 +1,7 @@
 # twitter-korean-text-api
 
+[![Docker Automated buil](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)]()
+
 REST API for [Twitter's Korean tokenizer](https://github.com/twitter/twitter-korean-text) on Docker using [node-twitter-korean-text](https://github.com/rokoroku/node-twitter-korean-text) and express
 
 ## Example run
