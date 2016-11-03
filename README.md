@@ -8,10 +8,6 @@ REST API for [Twitter's Korean tokenizer](https://github.com/twitter/twitter-kor
 
 `docker run --rm -p 3000:3000 haydnhkim/twitter-korean-text-api`
 
-or
-
-`docker run --rm -p 3000:3000 quay.io/haydnhkim/twitter-korean-text-api`
-
 ## API
 
 `GET|POST` are abailable for both query string and form data(x-www-form-urlencoded)
